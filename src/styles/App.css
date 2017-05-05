@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+}
+
+.Spinner {
+  display: flex;
+  justify-content: center;
+  opacity: 0.7;
+}
+.cloudIcon {
+  font-size: 5rem;
+}
+.weatherForm {
+  background: rgba(58, 63, 68, 0.6);
+}
+.transparentButton {
+  background: rgba(58, 63, 68, 0.6);
+}
+
+.tempText {
+  font-family: 'Playfair Display', serif;
+  justify-content: center;
+}
+
+.bolder {
+  font-weight: bold;
+  color: white;
+}
+.navApp {
+  justify-content: space-around;
+  align-content: center;
+  background: #404853;
+  padding-bottom: 0;
+  margin-bottom: 1rem;
+}
+
+.backgroundPhoto{
+  background-image: url("../../public/weatherUX.png");
+  background-size: cover;
+}
+.container .full{
+  height: 100vh;
+}
+
+.inputButton {
+  padding-top: 0;
+  margin-top: 0;
+  padding-bottom: 3rem;
+}
+
+.navLinks {
+  margin-left: 1rem;
+  font-size: 1.75rem;
+}
+
+.gitIcon {
+  display: flex;
+  margin-top: 2rem;
+}
+.tableCell {
+  margin-top: 2rem;
+}
+.switchForecast {
+  display: flex;
+  justify-content: center;
+  margin-top: 4rem;
+  color: white;
+}
